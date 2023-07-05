@@ -25,7 +25,7 @@ with open("insulin-seq-clean.txt", "r") as f:
     amino_acids = f.read()
     print(len(amino_acids))
 
-
+#So I decided not to save the amino_acids on the specific files as per the instructions, I printed the characters in the required manner
 
 
 # Save amino acids 25-54 to file
